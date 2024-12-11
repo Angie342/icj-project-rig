@@ -1,0 +1,44 @@
+{
+  "Books": [
+    {
+      "slug": "Hand",
+      "Author": "Cynthia Hand",
+      "title": "The Afterlife of Holly Chase",
+      "year": 2017,
+      "Rating": 4.7,
+      "Image": "hand.jpg"
+    },
+    {
+      "slug": "Schwab",
+      "Author": "V.E. Schwab",
+      "title": "The Afterlife of Addie LaRue",
+      "year": 2020,
+      "Rating": 4.5,
+      "Image": "schwab.jpg"
+    },
+    {
+      "slug": "Bazterrica",
+      "Author": "Agustina Bazterrica",
+      "title": "Tender is the Flesh",
+      "year": 2017,
+      "Rating": 4.8,
+      "Image": "bazterrica.jpg"
+    },
+    {
+      "slug": "Shusterman",
+      "Author": "Neal Shusterman",
+      "title": "Unwind",
+      "year": 2007,
+      "Rating": 4.3,
+      "Image": "shusterman.jpg"
+    },
+    {
+      "slug": "Atwood",
+      "Author": "Margaret Atwood",
+      "title": "The Handmaid's Tale",
+      "year": 1985,
+      "Rating": 4.7,
+      "Image": "atwood.jpg"
+    }
+  ]
+}
